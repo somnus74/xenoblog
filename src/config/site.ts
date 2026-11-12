@@ -15,17 +15,17 @@ export const siteConfig = {
   // ---------------------------------------------------------------------------
   lang: "en",
   locale: "en_US",
-  title: "Bit Doze Astro Blog Theme",
-  brandName: "Bit Doze",
+  title: "Xenophile Games Blog",
+  brandName: "Xenophile Games",
   logo,
   logoWidth: 160,
   logoHeight: 40,
-  logoText: "Bit Doze Astro Blog Theme",
-  author: "Dragos Balota",
-  description: "A modern, responsive blog theme for Astro with support for tags, categories, and series.",
+  logoText: "Xenophile Games",
+  author: "Malcolm Edwards",
+  description: "Xenophile games blog.",
   /** Paragraph under the hero headline and in the empty-blog hero. */
   heroDescription: "Join the community to learn more about VPS hosting, blogging, and modern content management.",
-  footerDescription: "Practical resources and tutorials for web developers and technology enthusiasts.",
+  footerDescription: "Information about xenophile games products and development.",
   ogImage: "/images/og-image.png",
   postsPerPage: 11,
 
